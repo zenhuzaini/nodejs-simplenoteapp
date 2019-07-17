@@ -1,0 +1,8 @@
+1. Using MongoDB
+2. 	GET /notes
+	POST /notes
+	GET / to retrieve all note
+	
+	GET /notes/:id/:stringnode
+	POST/PATCH /notes/:id/:stringnode
+	DEL /notes/del/:id
